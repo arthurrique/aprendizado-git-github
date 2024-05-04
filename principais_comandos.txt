@@ -1,0 +1,18 @@
+Os principais comandos são:
+
+git init -> cria um novo projeto git
+git branch -> verifica as branchs existentes no projeto
+git branch <nome_da_branch> -> cria uma nova branch
+git checkout -b <nome> -> cria uma nova branch e já entra nela
+git add . -> adiciona os arquivos modificados ou novos arquivos em stage
+git reset HEAD <arquivo> -> remove um arquivo de stage
+git commit -m '<mensagem>' -> realiza o commit dos arquivos em stage
+git checkout <branch> -> navega entre uma branch e outra
+git checkout -- <arquivo> -> Volta o arquivo para o estado do último commit feito nele, desde que ele não esteja em stage
+git reset HEAD~1 -> cancela o último commit feito
+git status -> verifica o status das branchs
+git remote add origin <url> -> adiciona o link do repositório de origem para operações de push, pull, etc (um repositório de qualquer site de git compatível)
+git push origin <branch> -> envia a branch em questão para o repositório de origem
+git pull origin <branch> -> baixa a branch destacada da origem para a sua máquina
+git clone <url> -> clona o repositório inteiro da url em questão
+git log -> exibe os logs das alterações feitas (existem outras formas de utilizar e ver detalhes mais precisos)

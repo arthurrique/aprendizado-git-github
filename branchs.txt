@@ -1,0 +1,1 @@
+As branchs (ou ramos) são como rascunhos onde os desenvolvedores podem ter liberdade para fazer alterações e testar sem alterar a branch principal. A branch principal só deve receber as atualizações das branchs secundárias após os testes serem bem-sucedidos.

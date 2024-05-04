@@ -1,0 +1,3 @@
+A conexão com o github é feita através do seguinte comando:
+
+git remote add origin <url do repositório já existente>
