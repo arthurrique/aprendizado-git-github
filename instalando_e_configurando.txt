@@ -1,0 +1,1 @@
+A instalação do git pode ser feita através do terminal, ou pode ser feita pelo google.
