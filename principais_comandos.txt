@@ -1,7 +1,7 @@
 Os principais comandos são:
 
 git init -> cria um novo projeto git
-git branch -> verifica as branchs existentes no projeto
+git branch -> verifica as branchs existentes no projeto e a branch conectada atualmente
 git branch <nome_da_branch> -> cria uma nova branch
 git checkout -b <nome> -> cria uma nova branch e já entra nela
 git add . -> adiciona os arquivos modificados ou novos arquivos em stage
